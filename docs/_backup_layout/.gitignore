@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/*
+!.vscode/settings.json
+
+# Node (not used here, but future-proof)
+node_modules
+dist
+.cache
